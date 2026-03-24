@@ -4,3 +4,7 @@ set -euo pipefail
 
 # TODO: Write a command to output the number of lines in the file helper-files/helper-3.txt.
 # The output should include the number 3. The output should not include the number 19.
+
+cd .. 
+cd helper-files 
+wc -l helper-3.txt 
