@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John",
+    "surname": "Smith",
+    "age": 28,
+    "address": "123 Main Street, London, UK",
+    "gender": "male"
+  },
+  {
+    "name": "Maria",
+    "surname": "Garcia",
+    "age": 34,
+    "address": "456 Oak Avenue, Barcelona, Spain",
+    "gender": "female"
+  },
+  {
+    "name": "Ahmed",
+    "surname": "Hassan",
+    "age": 42,
+    "address": "789 Palm Road, Cairo, Egypt",
+    "gender": "male"
+  },
+  {
+    "name": "Sarah",
+    "surname": "Sonson",
+    "age": 25,
+    "address": "321 Elm Street, Manchester, UK",
+    "gender": "female"
+  },
+  {
+    "name": "Chen",
+    "surname": "Wei",
+    "age": 31,
+    "address": "654 Bamboo Lane, Shanghai, China",
+    "gender": "male"
+  },
+  {
+    "name": "Aisha",
+    "surname": "Patel",
+    "age": 29,
+    "address": "987 Rose Garden, Mumbai, India",
+    "gender": "female"
+  }
+]
