@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const currentDir = __dirname; // same directory as this JS file
+const currentDir = __dirname;
 
 fs.readdir(currentDir, (err, files) => {
   if (err) {
